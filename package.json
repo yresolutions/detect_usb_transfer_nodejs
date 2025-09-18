@@ -1,0 +1,28 @@
+{
+  "name": "node_detect_usb_transfer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon api/src/app.js"
+  },
+  "keywords": [],
+  "author": "Yoandris Reyes",
+  "license": "ISC",
+  "description": "Detectar las unidades USB conectadas y los archivos transferidos a ellas utilizando Node.js",
+  "devDependencies": {
+    "nodemon": "^3.1.10",
+    "standard": "^17.1.2"
+  },
+  "eslintConfig": {
+    "extends": "./node_modules/standard/eslintrc.json"
+  },
+  "dependencies": {
+    "chokidar": "^4.0.3",
+    "dotenv": "^17.2.2",
+    "drivelist": "^12.0.2",
+    "express": "^5.1.0",
+    "mongoose": "^8.18.1",
+    "usb-detection": "^4.14.2"
+  }
+}
