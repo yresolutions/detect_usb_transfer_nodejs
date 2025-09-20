@@ -1,4 +1,4 @@
-# detect_usb_transfer_nodejs
+# detect_usb_transfer_nodejs :rocket:
 
 Es una herramienta de uso personal diseñada para monitorear y controlar las transferencias de archivos desde y hacia dispositivos USB externos. Te ayuda a mantener un registro de todos los datos movidos a almacenamiento extraíble.
 
