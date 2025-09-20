@@ -27,9 +27,9 @@ Es una herramienta de uso personal diseñada para monitorear y controlar las tra
 
 ## Contacto :e-mail:
 
-GitHub: https://github.com/[yresolutions]
+GitHub: https://github.com/yresolutions
 
-LinkedIn: https://www.linkedin.com/in/[yoandris-reyes-jiménez-349830204]
+LinkedIn: https://www.linkedin.com/in/yoandris-reyes-jiménez-349830204
 
 
 
